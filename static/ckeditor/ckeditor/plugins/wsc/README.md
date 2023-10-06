@@ -1,25 +1,4 @@
-
-
-Code
-Issues
-Pull requests
-More
-BreadcrumbsWebstack-Portfolio-Project/static/ckeditor/ckeditor/plugins/wsc
-/README.md
-Latest commit
-AlejandroArbelaez21
-AlejandroArbelaez21
-2 years ago
-History
-80 lines (50 loc) · 4.22 KB
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
-WebSpellChecker Dialog Plugin for CKEditor 4
+#WebSpellChecker Dialog Plugin for CKEditor 4
 WebSpellChecker Dialog (WSC Dialog) provides distraction-free proofreading, checking the whole text’s spelling and grammar on-click in a separate pop-up window.
 
 WSC Dialog Plugin for CKEditor 4 View
